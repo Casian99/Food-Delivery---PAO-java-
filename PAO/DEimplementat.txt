@@ -1,0 +1,27 @@
+platforma food delivery(localuri,comenzi,soferi,useri)
+
+
+1.adaugare sofer -> da
+2.adaugare user -> da
+3.adaugare local -> da
+4.adaugare comanda -> da
+5.afisare comanda -> da
+6.afisare useri -> da
+7.afisare localuri -> da
+8.adaugare bucatar -> da
+9.adaugare ospatar -> da
+10. emitere tranzactie -> da
+11. finalizare tranzactie (plata) -> da
+12. afisare tranzactii finalizate (platite) -> da
+
+
+
+1.sofer
+2.persoana
+3.local
+4.comanda
+5.user
+6.tranzactie
+7.bucatar
+8.ospatar
+
